@@ -1,0 +1,5 @@
+{
+  "name": "Coloring Book Creator",
+  "description": "An AI-powered application that generates personalized children's coloring books from a theme. It creates a cover with the child's name and five unique coloring pages, then compiles them into a downloadable PDF. Also includes an interactive AI chatbot.",
+  "requestFramePermissions": []
+}
